@@ -1,0 +1,5 @@
+(0, 'C:\\Users\\KETI\\Desktop\\validation\\easy\\easy11\\1Samoyed22.jpg')
+(array(51.64204, dtype=float32), 'C:\\Users\\KETI\\Desktop\\validation\\easy\\easy11\\Samoyed29.jpg')
+(array(88.30966, dtype=float32), 'C:\\Users\\KETI\\Desktop\\validation\\easy\\easy11\\Maltese30.jpg')
+(array(100.32697, dtype=float32), 'C:\\Users\\KETI\\Desktop\\validation\\easy\\easy11\\AfghanHound16.jpg')
+(array(131.74759, dtype=float32), 'C:\\Users\\KETI\\Desktop\\validation\\easy\\easy11\\Canary26.jpg')
